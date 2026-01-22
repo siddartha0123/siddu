@@ -1,0 +1,7 @@
+identifiers
+rules for identifiers
+varibles
+reserved keywords
+data types
+primitive data types
+non primitive (list,tuple,set,dict) 
